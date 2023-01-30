@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/franco-ariel-lopez-209452b3/"
+        },
+        {
+            "network" : "instagram",
+            "href": "https://www.instagram.com/fraannlopez/"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:franco-ariel.lopez@hotmail.com.com"
+        }
+    ]
+}

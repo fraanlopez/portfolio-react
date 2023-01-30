@@ -1,0 +1,44 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/fraanlopez/portfolio-react"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/caaring-poster.png",
+            "title": "TusInversiones -  All your investments in one place",
+            "bodyText": "- Final project of the Systems Engineering degree.\n - Application that integrates all investments from both brokers and exchanges in one place. A training portal for beginning investors and an educational library were developed.\n - Integration with **Invertir Online**, **Binance** and **Coinbase**. \n - Web application made with **React Js**, API Backend made with **.Net**. Deployed in **Azure** Cloud.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://testapptusinversiones.azurewebsites.net/"
+                }
+            ],
+            "tags" : [
+                "React Js",
+                ".Net",
+                "BootStrap",
+                "Azure",
+                "Sql Server",
+                "Firebase Auth",
+                "Firebase Database"
+            ]
+        }
+    ]
+}

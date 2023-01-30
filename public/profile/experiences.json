@@ -1,0 +1,50 @@
+{
+    "experiences": [
+        {
+            "title": "Fullstack Java Sr",
+            "subtitle": "Leapsight SA",
+            "workType": "Full-time",
+            "workDescription": [
+                "Development and maintenance of applications and projects for Lojack's management systems area."
+            ],
+            "dateText": "08/2020 – Present"
+        },
+        {
+            "title": "Java Sr + Angular Developer",
+            "subtitle": "COTO C.I.C.S.A",
+            "workType": "Full-time",
+            "workDescription": [
+                "ERP Project of Licenses for the Government of the Nation: Development of the licensing system currently used by the government."
+            ],
+            "dateText": "02/2020 – 08/2020"
+        },
+        {
+            "title": "Java Sr + Angular Developer",
+            "subtitle": "UxorIt",
+            "workType": "Full-time",
+            "workDescription": [
+                "Development and maintenance of Victoria Seguros applications.",
+                "Vnet mobile application development with Angular + Ionic"
+            ],
+            "dateText": "01/2016 – 02/2020"
+        },
+        {
+            "title": "Java Ssr Developer",
+            "subtitle": "Technisys SA",
+            "workType": "Full-time",
+            "workDescription": [
+                "Cyberbank Omnichannel: Working with the agile Scrum methodology, participating in the Profiling area for Banco Falabella de Chile."
+            ],
+            "dateText": "05/2015 – 12/2015"
+        },
+        {
+            "title": "Java Jr Developer",
+            "subtitle": "Capgemini SA",
+            "workType": "Full-time",
+            "workDescription": [
+                "Maintenance of the 'PSA Peugeot Citroen' portal developed with Java, Struts 2, Hibernate, Oracle Sql, JavaScript and Bootstrap."
+            ],
+            "dateText": "05/2015 – 12/2015"
+        }
+    ]
+}

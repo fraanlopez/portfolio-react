@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Mar 2012 - Dec 2022",
+            "cardTitle": "Information Systems Engineer.",
+            "cardSubtitle":"National Technological University, Ciudad Autónoma de Buenos Aires",
+            "cardDetailedText": "UTN FRBA.",
+            "icon" : {
+                "src": "images/education/iconEducation.png"
+            }
+        },
+        {
+            "title": "Dec 2011",
+            "cardTitle": "High School",
+            "cardSubtitle":"Holy Cross Institute, Ciudad Autónoma de Buenos Aires",
+            "cardDetailedText": "Bachelor / Commercial Degree"
+        }
+    ]
+}
